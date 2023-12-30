@@ -1,9 +1,9 @@
 ## Perlu Di Baca Baik-Baik
-Sebelum Melakukan Penginstalan Script
-Lakukan Upgrade - Update System Linux Anda (Wajib)
-Untuk Perintah Sudah Saya Sediakan Di Bawah Sesuai Urutan Ya Kang
-Setelag Membaca Notif Di Atas Saya Harap Sudah Mengerti 
-Untuk Menghindari Error Di Installasi Scriptnya
+Sebelum Melakukan Penginstalan Script,
+Lakukan Upgrade - Update System Linux Anda (Wajib),
+Untuk Perintah Sudah Saya Sediakan Di Bawah Sesuai Urutan Ya Kang,
+Setelah Membaca Notif Di Atas Saya Harap Sudah Mengerti, 
+Untuk Menghindari Error Di Installasi Scriptnya,
 Dan Silahkan Lakukan Instalasi nya Makasih Udah Nyempetin Baca Sebelum Install🙏🙏🙏
 
 ## UPGRADE FOR DEBIAN
